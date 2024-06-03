@@ -1,2 +1,2 @@
 # ML
-Collection of my Machine Learning Projects.
+Collection of my Machine Learning and Deep Learning Projects.
